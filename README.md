@@ -8,15 +8,11 @@
 class Developer():
 
   def __init__(self):
-    self.fullname = "Reza Rezaee";
-    self.location = "Esfahan, Iran";
-    self.email = "rezarezaee.commercial@gmail.com";
-    self.github_page = "zarezaeedev.github.io";
-    self.tech_stack = [
-        'Python',
-        'Django/DRF',
-        'Git/Github',
-    ]
+    self.fullname = "Reza Rezaee"
+    self.location = "Esfahan, Iran"
+    self.gmail = "rezarezaee.commercial@gmail.com"
+    self.web = "rezarezaeedev.github.io"
+
   
   def __str__(self):
     return 'A passionate individual who loves building web applications and learnin more'
@@ -40,9 +36,7 @@ if __name__ == '__main__':
 
 <br><br>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=rezarezaeedev&show_icons=true&theme=dracula&count_private=true)
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezarezaeedev&theme=dracula&count=10&layout=compact&hide=dart,Rich%20Text%20Format&exclude_repo=pep8ir,vuetest)
+[![My stats](https://github-readme-stats.vercel.app/api?username=rezarezaeedev&show_icons=true&theme=dracula&count_private=true)](https://github.com/rezarezaeedev/github-readme-stats) [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezarezaeedev&theme=dracula&count=10&layout=compact&hide=dart,Rich%20Text%20Format&exclude_repo=pep8ir,vuetest)](https://github.com/rezarezaeedev/github-readme-stats)
  
 
 <br><br>
