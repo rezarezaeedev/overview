@@ -55,7 +55,7 @@ if __name__ == '__main__':
 
 <br> 
 
- <a href="#"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=rezarezaeedev&show_icons=true&theme=dracula&count_private=true" /><!-- wi*quL3fcV --><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezarezaeedev&theme=dracula&count=10&layout=compact&hide=dart,md,markdown,Rich%20Text%20Format&exclude_repo=pep8ir,vuetest" /></a>
+ <a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=rezarezaeedev&show_icons=true&theme=dracula&count_private=true" /> &nbsp;&nbsp; <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezarezaeedev&theme=dracula&count=10&layout=compact&hide=dart,md,markdown,Rich%20Text%20Format&exclude_repo=pep8ir,vuetest" /></a>
 
 <br> 
 
