@@ -21,7 +21,7 @@ if __name__ == '__main__':
     me = Developer()
 
 ```
-<hr><br>
+<br>
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black">
@@ -29,14 +29,12 @@ if __name__ == '__main__':
 <img src="https://camo.githubusercontent.com/cbef21adebc167fac6552145a03c9e12ae03b8afd5e4f7de52379a98297de3fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f444a414e474f2d524553542d6666313730393f7374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d776869746526636f6c6f723d666631373039266c6162656c436f6c6f723d67726179">  
 <img src="https://img.shields.io/badge/-manjaro-333333?style=for-the-badge&logo=manjaro">   
 <img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git">   
-
-<br>
-
+ 
 <div align="center">
 
 <br><br>
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=rezarezaeedev&show_icons=true&theme=dracula&count_private=true)](https://github.com/rezarezaeedev/github-readme-stats) [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezarezaeedev&theme=dracula&count=10&layout=compact&hide=dart,Rich%20Text%20Format&exclude_repo=pep8ir,vuetest)](https://github.com/rezarezaeedev/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=rezarezaeedev&show_icons=true&theme=dracula&count_private=true)](https://github.com/rezarezaeedev/github-readme-stats) [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezarezaeedev&theme=dracula&count=10&layout=compact&hide=dart,md,markdown,Rich%20Text%20Format&exclude_repo=pep8ir,vuetest)](https://github.com/rezarezaeedev/github-readme-stats)
  
 
 <br><br>
