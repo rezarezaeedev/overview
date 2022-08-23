@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # Hi, I am Reza Rezaee
@@ -30,14 +32,12 @@ if __name__ == '__main__':
 <img src="https://img.shields.io/badge/-manjaro-333333?style=for-the-badge&logo=manjaro">   
 <img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git">   
  
-<div align="center">
-
-<br><br>
-
-[![My stats](https://github-readme-stats.vercel.app/api?username=rezarezaeedev&show_icons=true&theme=dracula&count_private=true)](https://github.com/rezarezaeedev/github-readme-stats) [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezarezaeedev&theme=dracula&count=10&layout=compact&hide=dart,md,markdown,Rich%20Text%20Format&exclude_repo=pep8ir,vuetest)](https://github.com/rezarezaeedev/github-readme-stats)
  
 
-<br><br>
+
+
+<br> 
+
 <div align="left">
 
 ### **I am ... :**
@@ -53,7 +53,13 @@ if __name__ == '__main__':
 <a href="https://wa.me/989301162905" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%231ED760.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a> </a>
 <a href="https://rezarezaeedev.github.io" target="_blank"><img src="https://img.shields.io/badge/Personal-website-lightgrey?style=flat-square&color=chocolate" alt="perosnal-page"></a>
 
+<br> 
 
-<br><br>
+ <a href="#"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=rezarezaeedev&show_icons=true&theme=dracula&count_private=true" /><!-- wi*quL3fcV --><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezarezaeedev&theme=dracula&count=10&layout=compact&hide=dart,md,markdown,Rich%20Text%20Format&exclude_repo=pep8ir,vuetest" /></a>
+
+<br> 
+
 <span>Random dev joke for you😉</span><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?borderColor=grey&theme=default&bgColor=transparency" alt="README Jokes"></a>
+
+ 
