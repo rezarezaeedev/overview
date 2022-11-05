@@ -42,7 +42,7 @@ if __name__ == '__main__':
 
 ### **I am ... :**
 
-- 🔭 I am currently open to work _(updated: 9/2022)_
+- 🔭 I am currently open to work _(updated: 11/2022)_
 - 🌱 I am currently learning more about Django
 - 👯 I am looking to collaborate on Django/DRF position
 - 😄 Pronouns: He/His
